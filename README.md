@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PyFlake
+- 👀 I’m interested in Data Science applied to business
+- 🌱 I’m currently learning Python, SQL and R
+- 💞️ I’m looking to collaborate on whatever project that could improve my skills
+- 📫 Connect with me vía LinkedIn at https://www.linkedin.com/in/mazana/
